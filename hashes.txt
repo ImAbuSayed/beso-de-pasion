@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso de pasión
+
+This log tracks the cryptographic history and versioning for the song **Beso de pasión** (beso-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:57:55.937401 | `v1` | `8ef726320a97a373d7f51c59c1e7f32e34909ce6c8519984d2cd4ca1980aa6dc` | `cc2b693c529d69aeee544e9ac11746b1f33fe18c7b75cdfffc382aa1fedfe963` | `2026-06-23_beso-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
