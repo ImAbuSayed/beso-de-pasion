@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beso de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-pasion/) |
+| **Get License** | [Official Music Licensing for Beso de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate un poco, apaga la luz
+> Nadie en la disco brilla como tú
+> Beso de pasión, un flow de actitud
+> Déjate llevar, que mi cura eres tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
